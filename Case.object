@@ -378,6 +378,11 @@
                     <label>GC1040</label>
                 </value>
                 <value>
+                    <fullName>Adding for check</fullName>
+                    <default>false</default>
+                    <label>Adding for check</label>
+                </value>
+                <value>
                     <fullName>GC1060</fullName>
                     <default>false</default>
                     <label>GC1060</label>
