@@ -344,6 +344,11 @@
                     <default>false</default>
                     <label>Yes</label>
                 </value>
+                <value>
+                    <fullName>checkk</fullName>
+                    <default>false</default>
+                    <label>checkk</label>
+                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
