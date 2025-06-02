@@ -2781,6 +2781,11 @@
                     <default>false</default>
                     <label>Yes</label>
                 </value>
+		<value>
+                    <fullName>Not clear</fullName>
+                    <default>false</default>
+                    <label>NOt clear</label>
+                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
